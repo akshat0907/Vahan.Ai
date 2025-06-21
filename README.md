@@ -53,4 +53,3 @@ _**Problem Faced**_
 
 - Synthesizing 3+ paper summaries into a single cohesive overview that isn't redundant or generic.
 
-- 
