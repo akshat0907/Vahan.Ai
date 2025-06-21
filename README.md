@@ -53,3 +53,5 @@ _**🧠 Technologies Used**_
 
 - Synthesizing 3+ paper summaries into a single cohesive overview that isn't redundant or generic.
 
+- I am not aware of Docker, which was mentioned in provided PDF, so I couldn't able to do that. 
+
