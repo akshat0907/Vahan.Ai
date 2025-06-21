@@ -43,3 +43,14 @@ _**🧠 Technologies Used**_
 - gTTS – Text-to-speech for podcast
 
 - Python – Core scripting
+
+
+_**Problem Faced**_
+
+- In a previously similar made project, I chained file using a different approach, but for this one that approach was not working so that was a difficulty for me.
+
+- Generally I use gemini API model for my project, but this time that thing was also not working due to some reason (maximum limit reached for the free API) so I faced some issue due to that also.
+
+- Synthesizing 3+ paper summaries into a single cohesive overview that isn't redundant or generic.
+
+- 
